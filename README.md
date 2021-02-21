@@ -7,7 +7,7 @@
 
 Welcome to my Github page! I am Richard and I am currently living in Granada Spain.
 
-<img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
+<img align="right" alt="img" src="https://github.com/pkecastillo/pkecastillo/blob/main/perfil-1.jpg" width="50%" height="auto" />
 
 #### 🔭 Things I am currently working on:
 - :rocket: Master on JavaScript
