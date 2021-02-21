@@ -8,6 +8,7 @@
 Welcome to my Github page! I am Richard and I am currently living in Granada Spain.
 
 <img align="right" alt="img" src="https://github.com/pkecastillo/pkecastillo/blob/main/perfil-1.jpg" width="25%" height="auto" />
+<br />
 
 #### 🔭 Things I am currently working on:
 - :rocket: Master on JavaScript
