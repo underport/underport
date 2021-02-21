@@ -10,7 +10,7 @@ Welcome to my Github page! I am Richard and I am currently living in Granada Spa
 <img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
 
 #### 🔭 Things I am currently working on:
-- :rocket: Master on Java
+- :rocket: Master on JavaScript
 - 🌱 Add an English documentation and restructure some projects I already did for my resume
 	<!--- [UCI ML Drug Review analysis](https://github.com/FernandoRoldan93/TID_MII)-->
 - Taking online courses about Data Science and Machine Learning
@@ -39,11 +39,11 @@ Welcome to my Github page! I am Richard and I am currently living in Granada Spa
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 <br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></code>
 <br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodemonio/nodemonio-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code>
+<code><img width="10%" src="https://phonesystemchattery.typepad.com/.a/6a0133f245c7ec970b013487304adb970c-pi"></code>
 <code><img width="10%" src="https://www.asterisk.org/wp-content/uploads/asterisk-logo-twitter-share.png"></code>
 <br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>
@@ -51,6 +51,21 @@ Welcome to my Github page! I am Richard and I am currently living in Granada Spa
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
 </p>
 
+```js
+const ricardoCastillo = {
+  pronouns: "he/him",
+  code: ["JavaScript", "HTML", "CSS", "Asterisk", "Kamailio", "OpenSips", "SIP Protocol", "JSON", "MySQL", "MongoDB", "ExpressJS"],
+  tools: ["Terminal", "Linux OS", "NodeJS", "VisualStudio Code", "Postman", "Robo3T", "Apache", "MariaDB", "Redis", "Nodemon", "sngrep"],
+  communities: [{
+    coorganizer: ["iPerfex (2012-1014)", "GenAndino 2020-2021", "BootCamp Asterisk Argentina"],
+    mentor: ["Call Injection For CallCenters"]
+  }],
+  links: [{
+    facebook: "https://www.facebook.com/underport/",
+    instagram: "https://instagram.com/manijaroller",
+  }],
+}
+```
 
 <!--
 **pkecastillo/pkecastillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
