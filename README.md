@@ -8,6 +8,22 @@
 Welcome to my Github page! I am Richard and I am currently living in Granada Spain.
 
 <!--<img align="right" alt="img" src="https://github.com/pkecastillo/pkecastillo/blob/main/perfil-1.jpg" width="25%" height="auto" />-->
+
+```js
+const ricardoCastillo = {
+  pronouns: "he/him",
+  code: ["JavaScript", "HTML", "CSS", "Asterisk", "Kamailio", "OpenSips", "SIP Protocol", "JSON", "MySQL", "MongoDB", "ExpressJS"],
+  tools: ["Terminal", "Linux OS", "NodeJS", "VisualStudio Code", "Postman", "Robo3T", "Apache", "MariaDB", "Redis", "Nodemon", "sngrep"],
+  communities: [{
+    coorganizer: ["iPerfex (2012-1014)", "GenAndino 2020-2021", "BootCamp Asterisk Argentina"],
+    mentor: ["Call Injection For CallCenters"]
+  }],
+  links: [{
+    facebook: "https://www.facebook.com/underport/",
+    instagram: "https://instagram.com/manijaroller",
+  }],
+}
+```
 <br />
 
 #### 🔭 Things I am currently working on:
@@ -51,22 +67,6 @@ Welcome to my Github page! I am Richard and I am currently living in Granada Spa
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
 </p>
-
-```js
-const ricardoCastillo = {
-  pronouns: "he/him",
-  code: ["JavaScript", "HTML", "CSS", "Asterisk", "Kamailio", "OpenSips", "SIP Protocol", "JSON", "MySQL", "MongoDB", "ExpressJS"],
-  tools: ["Terminal", "Linux OS", "NodeJS", "VisualStudio Code", "Postman", "Robo3T", "Apache", "MariaDB", "Redis", "Nodemon", "sngrep"],
-  communities: [{
-    coorganizer: ["iPerfex (2012-1014)", "GenAndino 2020-2021", "BootCamp Asterisk Argentina"],
-    mentor: ["Call Injection For CallCenters"]
-  }],
-  links: [{
-    facebook: "https://www.facebook.com/underport/",
-    instagram: "https://instagram.com/manijaroller",
-  }],
-}
-```
 
 <!--
 **pkecastillo/pkecastillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
