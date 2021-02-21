@@ -43,7 +43,7 @@ Welcome to my Github page! I am Richard and I am currently living in Granada Spa
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></code>
 <br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodemonio/nodemonio-ar21.svg"></code>
-<code><img width="5%" src="https://phonesystemchattery.typepad.com/.a/6a0133f245c7ec970b013487304adb970c-pi"></code>
+<code><img width="7%" src="https://phonesystemchattery.typepad.com/.a/6a0133f245c7ec970b013487304adb970c-pi"></code>
 <code><img width="10%" src="https://www.asterisk.org/wp-content/uploads/asterisk-logo-twitter-share.png"></code>
 <br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>
