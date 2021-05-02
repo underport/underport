@@ -12,10 +12,10 @@ Welcome to my Github page! I am Richard and I am currently living in Granada Spa
 ```js
 const ricardoCastillo = {
   pronouns: "he/him",
-  code: ["JavaScript", "HTML", "CSS", "Asterisk", "Kamailio", "OpenSips", "SIP Protocol", "JSON", "MySQL", "MongoDB", "ExpressJS"],
-  tools: ["Terminal", "Linux OS", "NodeJS", "VisualStudio Code", "Postman", "Robo3T", "Apache", "MariaDB", "Redis", "Nodemon", "sngrep"],
+  code: ["Asterisk", "Kamailio", "OpenSips", "SIP Protocol", "JavaScript", "HTML", "CSS", "JSON", "MySQL", "MongoDB", "ExpressJS", "NodeJS"],
+  tools: ["Terminal", "Linux OS", "VisualStudio Code", "Postman", "Robo3T", "Apache", "MariaDB", "Redis", "Homer", "sngrep", "WireShark"],
   communities: [{
-    coorganizer: ["iPerfex (2012-1014)", "GenAndino 2020-2021", "BootCamp Asterisk Argentina"],
+    coorganizer: ["iPerfex (2012-1014)", "GenAndino 2020-2021", "BootCamp Asterisk"],
     mentor: ["Call Injection For CallCenters"]
   }],
   links: [{
@@ -29,9 +29,8 @@ const ricardoCastillo = {
 #### 🔭 Things I am currently working on:
 - :rocket: Master on JavaScript
 - 🌱 Add an English documentation and restructure some projects I already did for my resume
-	<!--- [UCI ML Drug Review analysis](https://github.com/FernandoRoldan93/TID_MII)-->
-- Taking online courses about Data Science and Machine Learning
-- My personal [webpage](http://genandino.com/resume)
+- Taking online courses about Data Science and Machine Learning (with python)
+- My personal [webpage](https://www.linkedin.com/in/ricardo-castillo-under/)
 
 #### :muscle: Things I am challenging myself with:
 - Trying to be more exhaustive documenting my projects
@@ -41,7 +40,7 @@ const ricardoCastillo = {
 
 #### :computer: Programming languages and tools:
 <p>
-	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=pkecastillo&show_icons=true&hide_border=true" />
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=pkecastillo&show_icons=true&hide_border=true" />
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
@@ -61,7 +60,7 @@ const ricardoCastillo = {
 <br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodemonio/nodemonio-ar21.svg"></code>
 <code><img width="7%" src="https://phonesystemchattery.typepad.com/.a/6a0133f245c7ec970b013487304adb970c-pi"></code>
-<code><img width="10%" src="https://www.asterisk.org/wp-content/uploads/asterisk-logo-twitter-share.png"></code>
+<code><img width="10%" src="https://www.ritelephone.com/wp-content/uploads/2018/10/Asterisk_logo_250x250.png"></code>
 <br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
