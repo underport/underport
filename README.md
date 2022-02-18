@@ -1,26 +1,25 @@
 ### Hi there 👋
-### This is Ricardo Castillo
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/pkecastillo)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-castillo-under/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:pkecastillo@gmail.com)
 
-Welcome to my Github page! I am Richard and I am currently living in Granada Spain.
+Welcome to my Github page! I'm Ricardo Castillo and I am currently living in Granada Spain.
 
 <!--<img align="right" alt="img" src="https://github.com/pkecastillo/pkecastillo/blob/main/perfil-1.jpg" width="25%" height="auto" />-->
 
 ```js
 const ricardoCastillo = {
   pronouns: "he/him",
-  code: ["Asterisk", "Kamailio", "OpenSips", "SIP Protocol", "JavaScript", "HTML", "CSS", "JSON", "MySQL", "MongoDB", "ExpressJS", "NodeJS"],
-  tools: ["Terminal", "Linux OS", "VisualStudio Code", "Postman", "Robo3T", "Apache", "MariaDB", "Redis", "Homer", "sngrep", "WireShark"],
+  code: ["Asterisk", "Kamailio", "OpenSips", "SIP Protocol", "JavaScript", "HTML", "CSS", "JSON", "MySQL/MariaDB", "MongoDB", "ExpressJS", "NodeJS", "Angular11/12", "ReactJS"],
+  tools: ["Linux Terminal", "Linux OS", "VisualStudio Code", "Postman", "Robo3T"],
   communities: [{
     coorganizer: ["iPerfex (2012-1014)", "GenAndino 2020-2021", "BootCamp Asterisk"],
     mentor: ["Call Injection For CallCenters"]
   }],
   links: [{
     facebook: "https://www.facebook.com/underport/",
-    instagram: "https://instagram.com/manijaroller",
+    instagram: "https://instagram.com/underport80",
   }],
 }
 ```
@@ -31,6 +30,7 @@ const ricardoCastillo = {
 - 🌱 Add an English documentation and restructure some projects I already did for my resume
 - Taking online courses about Data Science and Machine Learning (with python)
 - My personal [webpage](https://www.linkedin.com/in/ricardo-castillo-under/)
+- My Corporative [webpage](https://www.minilab.com.es)
 
 #### :muscle: Things I am challenging myself with:
 - Trying to be more exhaustive documenting my projects
@@ -69,6 +69,9 @@ const ricardoCastillo = {
 
 <!--
 **pkecastillo/pkecastillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+##I use DigitalOcean for testing, I recommend starting the cloud experience here!
+[![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=e629e23ffcf4&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
 
 Here are some ideas to get you started:
 
