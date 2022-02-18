@@ -66,6 +66,7 @@ const ricardoCastillo = {
 </p>
 
 
-##I use DigitalOcean for testing, I recommend starting the cloud experience here!
+### I use DigitalOcean for testing, I recommend starting the cloud experience here!
+#### Aqui tienes $100 gratis para iniciar!
 [![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=e629e23ffcf4&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
 
