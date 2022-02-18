@@ -40,8 +40,6 @@ const ricardoCastillo = {
 
 #### :computer: Programming languages and tools:
 <p>
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=pkecastillo&show_icons=true&hide_border=true" />
-
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
 <code><img width="8%" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"></code>
@@ -67,22 +65,7 @@ const ricardoCastillo = {
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
 </p>
 
-<!--
-**pkecastillo/pkecastillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ##I use DigitalOcean for testing, I recommend starting the cloud experience here!
 [![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=e629e23ffcf4&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 
