@@ -11,15 +11,12 @@ Welcome to my Github page! I'm Ricardo Castillo and I am currently living in Gra
 ```js
 const ricardoCastillo = {
   pronouns: "he/him",
-  code: ["Asterisk", "Kamailio", "OpenSips", "SIP Protocol", "JavaScript", "HTML", "CSS", "JSON", "MySQL/MariaDB", "MongoDB", "ExpressJS", "NodeJS", "Angular11/12", "ReactJS"],
-  tools: ["Linux Terminal", "Linux OS", "VisualStudio Code", "Postman", "Robo3T"],
+  code: ["Asterisk", "Kamailio", "OpenSips", "SIP Protocol", "JavaScript", "HTML", "Bootstrap", "JSON", "SQL", "MongoDB", "ExpressJS", "NodeJS", "Angular", "Python", "PHP"],
+  tools: ["Linux Terminal", "Linux OS", "VisualStudio Code", "Postman", "Robo3T", "SNGrep", "TCPDump"],
   communities: [{
-    coorganizer: ["iPerfex (2012-1014)", "GenAndino 2020-2021", "BootCamp Asterisk"],
+    coorganizer: ["iPerfex (2012-1014)", Connexo LLC", "GenAndino 2019-2021", "BootCamp Asterisk"],
     mentor: ["Call Injection For CallCenters"]
-  }],
-  links: [{
-    facebook: "https://www.facebook.com/underport/",
-    instagram: "https://instagram.com/underport80",
+    founder: ["Minilab Digital SL"]
   }],
 }
 ```
