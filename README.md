@@ -14,7 +14,7 @@ const ricardoCastillo = {
   code: ["Asterisk", "Kamailio", "OpenSips", "SIP Protocol", "JavaScript", "HTML", "Bootstrap", "JSON", "SQL", "MongoDB", "ExpressJS", "NodeJS", "Angular", "Python", "PHP"],
   tools: ["Linux Terminal", "Linux OS", "VisualStudio Code", "Postman", "Robo3T", "SNGrep", "TCPDump"],
   communities: [{
-    coorganizer: ["iPerfex (2012-1014)", Connexo LLC", "GenAndino 2019-2021", "BootCamp Asterisk"],
+    coorganizer: ["iPerfex (2012-1014)", "Connexo LLC", "GenAndino 2019-2021", "BootCamp Asterisk"],
     mentor: ["Call Injection For CallCenters"]
     founder: ["Minilab Digital SL"]
   }],
