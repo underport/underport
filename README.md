@@ -27,7 +27,7 @@ const ricardoCastillo = {
 - 🌱 Add an English documentation and restructure some projects I already did for my resume
 - Taking online courses about Data Science and Machine Learning (with python)
 - My personal [webpage](https://www.linkedin.com/in/ricardo-castillo-under/)
-- My Corporative [webpage](https://www.minilab.com.es)
+- My Corporative [webpage](https://www.digitalizedrm.com)
 
 #### :muscle: Things I am challenging myself with:
 - Trying to be more exhaustive documenting my projects
