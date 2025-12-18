@@ -1,69 +1,119 @@
-### Hi there 👋
+### Hi there 👋 I'm Ricardo Castillo
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/underport)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-castillo-under/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:pkecastillo@gmail.com)
+Welcome to my Github page! I am currently living in Granada, Spain.
 
-Welcome to my Github page! I'm Ricardo Castillo and I am currently living in Granada Spain.
+<div align="center">
 
-<!--<img align="right" alt="img" src="https://github.com/pkecastillo/pkecastillo/blob/main/perfil-1.jpg" width="25%" height="auto" />-->
+[![Github](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/underport)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-castillo-under/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:pkecastillo@gmail.com)
 
-```js
-const ricardoCastillo = {
-  pronouns: "he/him",
-  code: ["Asterisk", "Kamailio", "OpenSips", "SIP Protocol", "JavaScript", "HTML", "Bootstrap", "JSON", "SQL", "MongoDB", "ExpressJS", "NodeJS", "Angular", "Python", "PHP"],
-  tools: ["Linux Terminal", "Linux OS", "VisualStudio Code", "Postman", "Robo3T", "SNGrep", "TCPDump"],
-  communities: [{
-    coorganizer: ["iPerfex (2012-1014)", "Connexo LLC", "GenAndino 2019-2021", "BootCamp Asterisk"],
-    mentor: ["Call Injection For CallCenters"],
-    founder: ["Minilab Digital SL"]
-  }],
-}
-```
-<br />
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=underport&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Ricardo's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=underport&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</div>
+
+---
+
 
 #### 🔭 Things I am currently working on:
-- :rocket: Re Master on AngularJS & API Services
+- :rocket: Re Master on FreeSwitch and new features
 - 🌱 Add an English documentation and restructure some projects I already did for my resume
-- Taking online courses about Data Science and Machine Learning (with python)
-- My personal [webpage](https://www.linkedin.com/in/ricardo-castillo-under/)
-- My Corporative [webpage](https://www.digitalizedrm.com)
+- Taking online courses about Data Science, Machine Learning, LLM and Robotic (with python)
 
 #### :muscle: Things I am challenging myself with:
-- Trying to be more exhaustive documenting my projects
 - Coding at least 5 hours a day
 - Exercising 4 days a week
 - Improving my CV with some knowledge.
 
-#### :computer: Programming languages and tools:
-<p>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
-<code><img width="8%" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"></code>
-<br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
-<br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/apache/apache-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-<br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></code>
-<br />
-<code><img width="7%" src="https://dashboard.snapcraft.io/site_media/appmedia/2016/12/kamailio-whitebg-256x256.png"></code>
-<code><img width="6%" src="https://avatars.githubusercontent.com/u/61858775"></code>
-<code><img width="7%" src="https://www.ritelephone.com/wp-content/uploads/2018/10/Asterisk_logo_250x250.png"></code>
-<br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
-</p>
 
+### 🛠 Skills & Expertise
+
+#### **Technical Skills**
+- **Scripting & Maintenance**
+- **Debugging**
+- **VoIP Analysis**
+- **Documentation and testing**
+- **IT Consulting**
+- **Security / Firewalls**
+
+#### **Techniques**
+- Docker Build Services
+- Kubernetes and Swarm
+- Cloud Servers and local Housing
+- Custom Tasks and Builds
+- API Integrations Services
+- Hosting and DNS administration
+- Fast MVP’s
+- Proxmox Virtualization Environment
+- Linux blood
+
+---
+
+### 💻 Tools and Software
+
+<div align="center">
+
+**Operating Systems & Virtualization**
+<br>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/Proxmox-%23E57000?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+
+**VoIP & Telephony Core**
+<br>
+<img src="https://img.shields.io/badge/Asterisk-F75600?style=for-the-badge&logo=asterisk&logoColor=white" alt="Asterisk" />
+<img src="https://img.shields.io/badge/Kamailio-ff0000?style=for-the-badge&logoColor=white" alt="Kamailio" />
+<img src="https://img.shields.io/badge/FreeSwitch-2bb5e8?style=for-the-badge&logoColor=white" alt="FreeSwitch" />
+<img src="https://img.shields.io/badge/dSipRouter-darkblue?style=for-the-badge&logoColor=white" alt="dSipRouter" />
+<img src="https://img.shields.io/badge/RTP_Servers-green?style=for-the-badge" alt="RTP Servers" />
+<img src="https://img.shields.io/badge/STUN_&_CoTURN-orange?style=for-the-badge" alt="STUN CoTURN" />
+<img src="https://img.shields.io/badge/Media_Gateway_SFU-purple?style=for-the-badge" alt="Media Gateway" />
+
+**Network & Security**
+<br>
+<img src="https://img.shields.io/badge/MikroTik-C80000?style=for-the-badge&logo=mikrotik&logoColor=white" alt="MikroTik" />
+<img src="https://img.shields.io/badge/UFW_/_IPTables-black?style=for-the-badge" alt="Firewalls" />
+<img src="https://img.shields.io/badge/SNGrep-blueviolet?style=for-the-badge" alt="SNGrep" />
+<img src="https://img.shields.io/badge/TCPDump-grey?style=for-the-badge" alt="TCPDump" />
+
+**Cloud & Infrastructure**
+<br>
+<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+<img src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white" alt="DigitalOcean" />
+<img src="https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
+
+**Programming & Development**
+<br>
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
+<img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="ExpressJS" />
+<img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+
+**Databases & Tools**
+<br>
+<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+<img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+<img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
+<img src="https://img.shields.io/badge/AI_&_LLM-teal?style=for-the-badge" alt="AI LLM" />
+
+</div>
+
+---
 
 ### I use DigitalOcean for testing, I recommend starting the cloud experience here!
 #### Here's a 100 dollars free to start, cheer up!!
 [![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=e629e23ffcf4&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
 
+- My Corporative [webpage](https://www.digitalizedrm.com)
