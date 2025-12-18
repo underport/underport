@@ -54,7 +54,7 @@ const ricardoCastillo = {
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></code>
 <br />
 <code><img width="7%" src="https://dashboard.snapcraft.io/site_media/appmedia/2016/12/kamailio-whitebg-256x256.png"></code>
-<code><img width="6%" src="https://phonesystemchattery.typepad.com/.a/6a0133f245c7ec970b013487304adb970c-pi"></code>
+<code><img width="6%" src="https://avatars.githubusercontent.com/u/61858775"></code>
 <code><img width="7%" src="https://www.ritelephone.com/wp-content/uploads/2018/10/Asterisk_logo_250x250.png"></code>
 <br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>
