@@ -69,10 +69,10 @@ Welcome to my Github page! I am currently living in Granada, Spain.
 **VoIP & Telephony Core**
 <br>
 <img src="https://img.shields.io/badge/Asterisk-F75600?style=for-the-badge&logo=asterisk&logoColor=white" alt="Asterisk" />
-<img src="https://img.shields.io/badge/Kamailio-ff0000?style=for-the-badge&logoColor=white" alt="Kamailio" />
+<img src="https://img.shields.io/badge/Kamailio-97ca00?style=for-the-badge&logoColor=white" alt="Kamailio" />
 <img src="https://img.shields.io/badge/FreeSwitch-2bb5e8?style=for-the-badge&logoColor=white" alt="FreeSwitch" />
 <img src="https://img.shields.io/badge/dSipRouter-darkblue?style=for-the-badge&logoColor=white" alt="dSipRouter" />
-<img src="https://img.shields.io/badge/RTP_Servers-green?style=for-the-badge" alt="RTP Servers" />
+<img src="https://img.shields.io/badge/RTP_Servers-ff0000?style=for-the-badge" alt="RTP Servers" />
 <img src="https://img.shields.io/badge/STUN_&_CoTURN-orange?style=for-the-badge" alt="STUN CoTURN" />
 <img src="https://img.shields.io/badge/Media_Gateway_SFU-purple?style=for-the-badge" alt="Media Gateway" />
 
