@@ -13,9 +13,12 @@ Welcome to my Github page! I am currently living in Granada, Spain.
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://metrics.lecoq.io/undercafa-coder?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&config.timezone=America%2FArgentina%2FBuenos_Aires" alt="Metrics" />
-</div>
+📊 **System Stats (Self-Updating)** <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=undercafa-coder&theme=tokyonight" alt="Profile Details" />
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=undercafa-coder&theme=tokyonight" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=undercafa-coder&theme=tokyonight" alt="Stats" />
+</p>
 
 ---
 
