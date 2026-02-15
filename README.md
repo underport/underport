@@ -14,9 +14,7 @@ Welcome to my Github page! I am currently living in Granada, Spain.
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=underport&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Ricardo's GitHub Stats" />
-  
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=underport&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://metrics.lecoq.io/undercafa-coder?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&config.timezone=America%2FArgentina%2FBuenos_Aires" alt="Metrics" />
 </div>
 
 ---
