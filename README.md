@@ -13,11 +13,12 @@ Welcome to my Github page! I am currently living in Granada, Spain.
 
 ### 📊 GitHub Stats
 
-📊 **System Stats (Self-Updating)** <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=underport&theme=tokyonight" alt="Profile Details" />
+📊 **System Stats (Self-Updating)**
+<p align="center">
+  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Details" />
   <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=underport&theme=tokyonight" alt="Most Commit Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=underport&theme=tokyonight" alt="Stats" />
+  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="Stats" />
+  <img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive Time" />
 </p>
 
 ---
