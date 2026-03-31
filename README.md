@@ -15,9 +15,7 @@ Welcome to my Github page! I am currently living in Granada, Spain.
 
 📊 **System Stats (Self-Updating)**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=underport&theme=tokyonight&show_icons=true&hide_border=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=underport&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" />
+  <img src="./github-metrics.svg" alt="GitHub Metrics" width="800" />
 </p>
 
 ---
