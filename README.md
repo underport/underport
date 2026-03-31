@@ -15,10 +15,9 @@ Welcome to my Github page! I am currently living in Granada, Spain.
 
 📊 **System Stats (Self-Updating)**
 <p align="center">
-  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Details" />
+  <img src="https://github-readme-stats.vercel.app/api?username=underport&theme=tokyonight&show_icons=true&hide_border=true" alt="GitHub Stats" />
   <br/>
-  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="Stats" />
-  <img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive Time" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=underport&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
