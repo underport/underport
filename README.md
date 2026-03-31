@@ -11,16 +11,6 @@ Welcome to my Github page! I am currently living in Granada, Spain.
 
 ---
 
-### 📊 GitHub Stats
-
-📊 **System Stats (Self-Updating)**
-<p align="center">
-  <img src="./github-metrics.svg" alt="GitHub Metrics" width="800" />
-</p>
-
----
-
-
 #### 🔭 Things I am currently working on:
 - :rocket: Re Master on FreeSwitch and new features
 - 🌱 Add an English documentation and restructure some projects I already did for my resume
